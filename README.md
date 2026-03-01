@@ -1,3 +1,11 @@
-# test
+To install dependencies:
+```sh
+bun install
+```
 
-## Niam
+To run:
+```sh
+bun run dev
+```
+
+open http://localhost:3000
